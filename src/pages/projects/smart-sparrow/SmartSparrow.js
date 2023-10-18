@@ -10,12 +10,6 @@ import imageSprComponentsDark from 'assets/spr-components-dark.png';
 import imageSprComponentsLightLarge from 'assets/spr-components-dark.png';
 import imageSprComponentsLightPlaceholder from 'assets/spr-components-light-placeholder.png';
 import imageSprComponentsLight from 'assets/spr-components-dark.png';
-import imageSprDesignSystemDarkLarge from 'assets/spr-design-system-dark-large.png';
-import imageSprDesignSystemDarkPlaceholder from 'assets/spr-design-system-dark-placeholder.png';
-import imageSprDesignSystemDark from 'assets/spr-design-system-dark.png';
-import imageSprDesignSystemLightLarge from 'assets/spr-design-system-light-large.png';
-import imageSprDesignSystemLightPlaceholder from 'assets/spr-design-system-light-placeholder.png';
-import imageSprDesignSystemLight from 'assets/spr-design-system-light.png';
 import imageSprLessonBuilderDarkLarge from 'assets/spr-lesson-builder-dark-large.jpg';
 import imageSprLessonBuilderDarkPlaceholder from 'assets/spr-lesson-builder-light-placeholder.jpg';
 import imageSprLessonBuilderDark from 'assets/spr-lesson-builder-dark.png';
@@ -25,24 +19,6 @@ import imageSprLessonBuilderLight from 'assets/spr-lesson-builder-dark.png';
 import videoSprMotionLarge from 'assets/spr-motion.png';
 import videoSprMotionPlaceholder from 'assets/spr-motion.png';
 import videoSprMotion from 'assets/spr-motion.png';
-import imageSprSchema1DarkLarge from 'assets/spr-schema-1-dark-large.png';
-import imageSprSchema1DarkPlaceholder from 'assets/spr-schema-1-dark-placeholder.png';
-import imageSprSchema1Dark from 'assets/spr-schema-1-dark.png';
-import imageSprSchema1LightLarge from 'assets/spr-schema-1-light-large.png';
-import imageSprSchema1LightPlaceholder from 'assets/spr-schema-1-light-placeholder.png';
-import imageSprSchema1Light from 'assets/spr-schema-1-light.png';
-import imageSprSchema2DarkLarge from 'assets/spr-schema-2-dark-large.png';
-import imageSprSchema2DarkPlaceholder from 'assets/spr-schema-2-dark-placeholder.png';
-import imageSprSchema2Dark from 'assets/spr-schema-2-dark.png';
-import imageSprSchema2LightLarge from 'assets/spr-schema-2-light-large.png';
-import imageSprSchema2LightPlaceholder from 'assets/spr-schema-2-light-placeholder.png';
-import imageSprSchema2Light from 'assets/spr-schema-2-light.png';
-import imageSprStoryboarderDarkLarge from 'assets/spr-storyboarder-dark-large.png';
-import imageSprStoryboarderDarkPlaceholder from 'assets/spr-storyboarder-dark-placeholder.png';
-import imageSprStoryboarderDark from 'assets/spr-storyboarder-dark.png';
-import imageSprStoryboarderLightLarge from 'assets/spr-storyboarder-light-large.png';
-import imageSprStoryboarderLightPlaceholder from 'assets/spr-storyboarder-light-placeholder.png';
-import imageSprStoryboarderLight from 'assets/spr-storyboarder-light.png';
 import { Footer } from 'components/Footer';
 import { Image } from 'components/Image';
 import { Link } from 'components/Link';
@@ -159,13 +135,13 @@ export const SmartSparrow = () => {
                 Sketches: Where Stories Unfold.
               </ProjectSectionHeading>
               <ProjectSectionText>
-                Whether you're an art enthusiast, a collector, or someone simply in search
-                of a unique and meaningful addition to your space, Devesh's creations
-                offer an enchanting journey into the realm of fine art. Each sketch tells
-                a unique story, whether it's a lifelike portrait that captures the nuances
-                of the human soul, a religious-themed sketch that deepens your connection
-                to spirituality, or a corporate sketch that adds an element of creativity
-                and inspiration to your workspace.
+                Whether you are an art enthusiast, a collector, or someone simply in
+                search of a unique and meaningful addition to your space, Devesh's
+                creations offer an enchanting journey into the realm of fine art. Each
+                sketch tells a unique story, whether it's a lifelike portrait that
+                captures the nuances of the human soul, a religious-themed sketch that
+                deepens your connection to spirituality, or a corporate sketch that adds
+                an element of creativity and inspiration to your workspace.
               </ProjectSectionText>
             </ProjectTextRow>
           </ProjectSectionContent>
