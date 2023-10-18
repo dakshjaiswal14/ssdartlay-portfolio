@@ -17,20 +17,15 @@ export const navLinks = [
   },
 ];
 
-export const socialLinks = [
-  {
-    label: 'Twitter',
-    url: 'https://twitter.com/hamishMW',
-    icon: 'twitter',
-  },
-  {
-    label: 'Figma',
-    url: 'https://www.figma.com/@Hamish',
-    icon: 'figma',
-  },
-  {
-    label: 'Github',
-    url: 'https://github.com/HamishMW',
-    icon: 'github',
-  },
-];
+// export const socialLinks = [
+//   {
+//     label: 'Instagram',
+//     url: 'https://instagram.com/ssd_jannat_arts?igshid=MzRlODBiNWFlZA==',
+//     icon: 'twitter',
+//   },
+//   {
+//     label: 'LinkedIn',
+//     url: 'https://www.linkedin.com/company/ssd-jannat-arts/',
+//     icon: 'Figma',
+//   },
+// ];

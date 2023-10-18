@@ -6,7 +6,7 @@ import styles from './Footer.module.css';
 export const Footer = ({ className }) => (
   <footer className={classes(styles.footer, className)}>
     <Text size="s" align="center">
-      <span className={styles.date}>{`© ${new Date().getFullYear()} SSDArtlay`}</span>
+      <span className={styles.date}>{`© ${new Date().getFullYear()} SSDArtAlay`}</span>
       <Link
         secondary
         className={styles.link}

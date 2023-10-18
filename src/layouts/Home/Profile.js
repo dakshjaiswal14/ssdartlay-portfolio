@@ -79,7 +79,7 @@ export const Profile = ({ id, visible, sectionRef }) => {
                   collapseDelay={1000}
                 />
                 <div className={styles.tagText} data-visible={visible}>
-                  About SSD Jannat Arts
+                  About SSD Art Alay
                 </div>
               </div>
               <div className={styles.image}>
