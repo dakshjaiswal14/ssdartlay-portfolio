@@ -11,7 +11,7 @@ export const Footer = ({ className }) => (
         secondary
         className={styles.link}
         href="https://instagram.com/daksh_jaiswal03?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"
-        target="_self"
+        target="_blank"
       >
         Designed by yours truly
       </Link>
