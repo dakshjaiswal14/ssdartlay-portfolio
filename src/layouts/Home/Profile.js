@@ -24,7 +24,7 @@ const ProfileText = ({ visible, titleId }) => (
       We are a team of creative enthusiast who believe to add unforgettable memories in
       peoples life. Since 2015 we have delivered our services to NGO's, companies and
       individual customers. We especially deal with pencil and charcoal sketches in
-      different types and sizes. We can provide customised corporate gifts at lowest
+      different types and sizes. We can provide customized corporate gifts at lowest
       prices as compared to the prevailing market price. We organise exhibitions also. Our
       motive is to become top customized Art work service providers by providing hand
       crafted masterpieces for each client.
